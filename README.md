@@ -1,6 +1,11 @@
 # MoneyPrinter 💸
 
-> ♥︎ Sponsor: The Best AI Chat App: [shiori.ai](https://www.shiori.ai)
+Sponsored by Post Bridge
+
+<a href="https://www.post-bridge.com/?ref=moneyprinter">
+  <img src="docs/repo/PostBridgeBanner.png" alt="Post Bridge integration banner" width="720" />
+</a>
+
 ---
 
 > 𝕏 Also, follow me on X: [@DevBySami](https://x.com/DevBySami).
